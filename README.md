@@ -1,0 +1,2 @@
+# BetterMan.git.io
+Blog
